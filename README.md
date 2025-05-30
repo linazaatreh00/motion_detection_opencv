@@ -34,7 +34,7 @@ This project applies and compares three background subtraction methods—MOG, MO
 
 ## Sample Result
 
-![sample result](results/sample_frame.png)
+![sample result](results/motion_detection_output_1.mp4)
 
 ## Requirements
 
