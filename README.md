@@ -32,9 +32,6 @@ This project applies and compares three background subtraction methods—MOG, MO
 3. Check the `results/` folder for output videos.
 4. Use the comparison frame for visual analysis.
 
-## Sample Result
-
-![sample result](results/motion_detection_output_1.mp4)
 
 ## Requirements
 
