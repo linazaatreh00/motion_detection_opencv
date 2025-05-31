@@ -6,9 +6,9 @@ This project applies and compares three background subtraction methods—MOG, MO
 
 ##  Project Structure
 
-- `motion_detection.ipynb` – Google Colab notebook containing the full code and explanation.
-- `motion_detection.py` – Optional Python script version.
-- `sample_input/` – Folder containing sample video(s).
+- `Motion_Tracking_in_Videos_.ipynb` – Google Colab notebook containing the full code and explanation.
+- `motion_tracking_in_videos_.py` – Optional Python script version.
+- `videos/` – Folder containing sample video(s).
 - `results/` – Folder with output videos and screenshots.
 
 ## Methods Used
